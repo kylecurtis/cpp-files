@@ -33,3 +33,4 @@ All of my code files while learning the C++ programming language.
 | Topic | Link |
 | :-- | :-- |
 | Arrays | https://github.com/kylecurtis/cpp-files/blob/main/src/03-data-structures/arrays.cpp |
+| Vectors | https://github.com/kylecurtis/cpp-files/blob/main/src/03-data-structures/vectors.cpp |
