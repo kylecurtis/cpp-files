@@ -43,3 +43,4 @@ All of my code files while learning the C++ programming language.
 | Topic | Link |
 | :-- | :-- |
 | If-Else | https://github.com/kylecurtis/cpp-files/blob/main/src/04-control-flow/if-else.cpp |
+| Switch | https://github.com/kylecurtis/cpp-files/blob/main/src/04-control-flow/switch.cpp |
