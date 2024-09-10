@@ -24,6 +24,7 @@ All of my code files while learning the C++ programming language.
 | Characters | https://github.com/kylecurtis/cpp-files/blob/main/src/02-data-types/characters.cpp |
 | Integers | https://github.com/kylecurtis/cpp-files/blob/main/src/02-data-types/integers.cpp |
 | Floats | https://github.com/kylecurtis/cpp-files/blob/main/src/02-data-types/floats.cpp |
+| Strings | https://github.com/kylecurtis/cpp-files/blob/main/src/02-data-types/strings.cpp |
 | Enums | https://github.com/kylecurtis/cpp-files/blob/main/src/02-data-types/enums.cpp |
 
 <br>
