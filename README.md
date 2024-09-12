@@ -1,6 +1,4 @@
-# C++ Files
-
-![CPP Banner](https://github.com/user-attachments/assets/6a8e6abe-b37b-4a4f-8549-c4e1648393d9)
+![cpp-files-banner](https://github.com/user-attachments/assets/1cedda82-bfd8-482b-a7f8-f8559a1fdc9d)
 
 <br>
 
